@@ -1,7 +1,9 @@
 
 <h1 style="color: purple">SCON</h1></span>
 All in one Study groupware ㅡ ”Scon“
-쉽고 편리한 학원 관리 프로그램 
+> 쉽고 편리한 학원 관리 프로그램 
+![image (1) (1)](https://user-images.githubusercontent.com/106756457/172342386-44303027-120a-4349-852c-11a416149912.png)
+
 
 <h1>기능 시연</h1>
 <h2>클릭해서 펼쳐주세요!</h2>

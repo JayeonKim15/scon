@@ -1,6 +1,7 @@
 
 <h1 style="color: purple">SCON</h1></span>
 ✨All in one Study groupware ㅡ ”Scon“
+✨원생, 출결, 수납, 학습 관리부터 경영분석까지 쉽고 편리한 학원관리프로그램
 
 
 

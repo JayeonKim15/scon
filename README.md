@@ -1,7 +1,5 @@
-# scon
-파이널프로젝트
 
-<span style="color:purple"><h1>SCON</h1></span>
+<h1 style="color: purple">SCON</h1></span>
 All in one Study groupware ㅡ ”Scon“
 쉽고 편리한 학원 관리 프로그램 
 

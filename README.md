@@ -1,10 +1,11 @@
 
 <h1 style="color: purple">SCON</h1></span>
 ✏️ All in one Study groupware ㅡ ”Scon“ <br>
-✏️ <strong>원생, 출결, 수납, 학습 관리부터 경영분석까지 쉽고 편리한 학원관리프로그램</strong>
+✏️ <strong>원생, 출결, 수납, 학습 관리부터 경영분석까지 쉽고 편리한 학원관리프로그램</strong><br><br>
 
 
-
+📪 포트폴리오 <br>
+https://www.notion.so/SCON-91940206d1294730bf86000af1ebb071
 
 
 <h1>기능 시연</h1>
